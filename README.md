@@ -1,5 +1,6 @@
 # Lumbar_Spine_Degradation_Classification_FastAI
-a classification pipeline developed to classify severe conditions of spine degradation from a dataset of 1983 people's MRI images
+a classification pipeline developed to classify severe conditions of spine degradation from a dataset of 1983 people's MRI images. 
+
 This project involves using machine learning techniques to classify lumbar spine degenerative diseases based on MRI scans. The focus is on detecting foraminal narrowing, subarticular stenosis, and canal stenosis in MRI scans of the lumbar spine and categorizing each condition's severity. The project utilizes FastAI for image processing and model training.
 
 Project Overview
